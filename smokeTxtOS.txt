@@ -7,3 +7,6 @@ retilio.com
 0017g.com
 yandex.ru
 virustotal.com
+10.0.0.1
+172.16.0.11
+192.168.0.111
