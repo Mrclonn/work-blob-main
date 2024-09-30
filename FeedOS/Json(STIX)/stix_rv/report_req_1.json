@@ -1,0 +1,23 @@
+{
+  "type": "bundle",
+  "id": "bundle--ac946f1d-6a0e-4a9d-bc83-3f1f3bfda6ba",
+  "objects": [
+    {
+      "type": "report",
+      "spec_version": "2.1",
+      "id": "report--e33ffe07-2f4c-48d8-b0af-ee2619d765cf",
+      "created": "2015-05-15T09:12:16.432Z",
+      "modified": "2015-05-15T09:12:16.432Z",
+      "name": "APT1: Exposing One of China's Cyber Espionage Units",
+      "report_types": [
+        "threat-report",
+        "threat-actor"
+      ],
+      "published": "2013-02-19T00:00:00.000000Z",
+      "object_refs": [
+        "attack-pattern--3098c57b-d623-4c11-92f4-5905da66658b",
+        "identity--0e9d20d9-fb11-42e3-94bc-b89fb5b007ca"
+      ]
+    }
+  ]
+}
