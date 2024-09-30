@@ -1,0 +1,14 @@
+{
+  "type": "bundle",
+  "id": "bundle--ac946f1d-6a0e-4a9d-bc83-3f1f3bfda6ba",
+  "objects": [
+    {
+      "type": "campaign",
+      "spec_version": "2.1",
+      "id": "campaign--b549a58c-afd9-4847-85c3-5be13d56d3cc",
+      "created": "2014-09-09T19:58:39.609Z",
+      "modified": "2014-09-09T19:58:39.609Z",
+      "name": "Operation Omega"
+    }
+  ]
+}

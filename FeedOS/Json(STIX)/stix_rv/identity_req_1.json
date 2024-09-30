@@ -1,0 +1,15 @@
+{
+  "type": "bundle",
+  "id": "bundle--ac946f1d-6a0e-4a9d-bc83-3f1f3bfda6ba",
+  "objects": [
+    {
+      "type": "identity",
+      "spec_version": "2.1",
+      "id": "identity--f690c992-8e7d-4b9a-9303-3312616c0220",
+      "created": "2016-08-08T15:50:10.983Z",
+      "modified": "2016-08-08T15:50:10.983Z",
+      "name": "The MITRE Corporation - DHS Support Team",
+      "identity_class": "organization"
+    }
+  ]
+}

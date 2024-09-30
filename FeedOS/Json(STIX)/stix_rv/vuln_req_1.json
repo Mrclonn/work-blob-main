@@ -1,0 +1,14 @@
+{
+    "type": "bundle",
+    "id": "bundle--ac946f1d-6a0e-4a9d-bc83-3f1f3bfda6ba",
+    "objects": [
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--c7cab3fb-0822-43a5-b1ba-c9bab34361a2",
+            "created": "2015-05-15T09:12:16.432Z",
+            "modified": "2015-05-15T09:12:16.432Z",
+            "name": "CVE-2012-0158"
+        }
+    ]
+}
