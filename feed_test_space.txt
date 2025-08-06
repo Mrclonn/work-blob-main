@@ -1,10 +1,3 @@
-%CommonApplicationData%\Local Test\user.key
-%PROGRAMFILES%\Linux Mail\AcroRd64.exe
-%PROGRAMFILES%\Linux Mail\DsNcDiag.dll
-%COMMONPROGRAMFILES%\VLC Media Test\VLCMediaUP.exe
-%COMMONPROGRAMFILES%\VLC Media Test\DsNcDiag.dll
-Unpublished Pictures 1-20230802T122531-002-sfx.exe
-pcmf-installer-23.0.5 test.exe
-comx3 test.dll.txt
-minibrowser shell.dll
-b010 test.dat
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b567d017d36537fcd16923aeb89f43dd1c28d3d22a0de3f0efaddf6abe88356
+size 367
