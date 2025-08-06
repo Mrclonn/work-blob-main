@@ -1,0 +1,106 @@
+[{
+	"name": "LummaStealer1",
+    "description": "LummaStealer is superstar",
+    "created_at": "2022-07-02T10:10:21.799Z",
+    "modified_at": "2022-08-02T10:10:21.799Z",
+	"first_seen": "2022-07-02T10:10:21.799Z",
+    "last_seen": "2022-08-02T10:10:21.799Z",
+	"tags": [
+        "hellowinpacker"
+    ],
+	"goals": [
+        "espionage"
+    ],
+	"aliases": [
+        "Stealer", "Lumma"
+    ],
+    "industries": ["agriculture"],
+	"countries": [
+        "CHN",
+        "THA",
+        "PHL",
+        "TWN",
+		"FJI"],
+	"Bool": true,
+	"Dict": "1",
+	"E-mail": "campaig@test.ru",
+	"INN": "827898418824",
+	"Int": 132,
+	"Link": "https://old.reactor.cc/all",
+	"Luma": "5062821234567892",
+	"Mult": "First line.\n Second line.",
+	"Reg": "12.133.46.05",
+	"Str": "My string 12",
+	"Time": "2024-08-20T23:00:00Z"
+   },
+   {
+	"name": "LummaStealer2",
+    "description": "LummaStealer is superstar",
+    "created_at": "2022-07-02T10:10:21.799Z",
+    "modified_at": "2022-08-02T10:10:21.799Z",
+	"first_seen": "2022-07-02T10:10:21.799Z",
+    "last_seen": "2022-08-02T10:10:21.799Z",
+	"tags": [
+        "hellowinpacker"
+    ],
+	"goals": [
+        "espionage"
+    ],
+	"aliases": [
+        "Stealer", "Lumma"
+    ],
+    "industries": ["agriculture"],
+	"countries": [
+        "CHN",
+        "THA",
+        "PHL",
+        "TWN",
+		"FJI"],
+	"Bool": false,
+	"Dict": "10",
+	"E-mail": "campaig@test.ru",
+	"INN": "365441141160",
+	"Int": 12,
+	"Link": "https://old.reactor.cc/all",
+	"Luma": "5062821234567892",
+	"Mult": "First line.\n Second line.",
+	"Reg": "12.133.46.05",
+	"Str": "My string 188",
+	"Time": "2024-08-20T23:00:00Z"
+   },
+   {
+	"name": "LummaStealer3",
+    "description": "LummaStealer is superstar",
+    "created_at": "2022-07-02T10:10:21.799Z",
+    "modified_at": "2022-08-02T10:10:21.799Z",
+	"first_seen": "2022-07-02T10:10:21.799Z",
+    "last_seen": "2022-08-02T10:10:21.799Z",
+	"tags": [
+        "hellowinpacker"
+    ],
+	"goals": [
+        "espionage"
+    ],
+	"aliases": [
+        "Stealer", "Lumma"
+    ],
+    "industries": ["agriculture"],
+	"countries": [
+        "CHN",
+        "THA",
+        "PHL",
+        "TWN",
+		"FJI"],
+	"Bool": "",
+	"Dict": "",
+	"E-mail": "",
+	"INN": "",
+	"Int": "",
+	"Link": "",
+	"Luma": "",
+	"Mult": "",
+	"Reg": "",
+	"Str": "",
+	"Time": ""
+   }
+]

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OpenIOC xmlns="http://schemas.mandiant.com/2010/ioc">
+  <metadata>
+    <description>самая новая разработка и наработка человечества, вы долго ждали этого момента</description>
+    <short_description>абсолютно новый и неареально продвинутый XXXMMMLLL</short_description>
+  </metadata>
+  <indicators>
+    <Indicator id="2712ecf6-0021-3b03-93ed-fe1a0ecf932a">
+      <description>абсолютно новый и неареально продвинутый XXXMMMLLL</description>
+      <Content type="FileItem" search="equals">
+          <FileItem>
+            <FileHash type="md5" search="equals">cf32d73c501d5924b3c98383f53fda51</FileHash>
+          </FileItem>
+        </Content>
+      <TimestampIndicator id="ip_timestamps">
+        <CreateTime>2024-03-21T12:49:22.446+00:00</CreateTime>
+        <LastModified>2024-03-22T12:49:22.446+00:00</LastModified>
+        <LastSeen>2024-03-23T12:49:22.446+00:00</LastSeen>
+        <FirstSeen>2024-03-24T12:49:22.446+00:00</FirstSeen>
+        <Collected>2024-03-28T12:49:22.446+00:00</Collected>
+      </TimestampIndicator>
+      <RatingIndicator id="ioc_rating">
+       <Rating>10</Rating>
+      </RatingIndicator>
+      <EntityType>observable</EntityType>
+      <Countries>
+        <Country>RU</Country>
+        <Country>EU</Country>
+        <Country>DEB</Country>
+        <Country>MEB</Country>
+        <Country>UA1</Country>
+      </Countries>
+      <Incidents>
+        <Incident>123y</Incident>
+        <Incident>123t</Incident>
+        <Incident>123r</Incident>
+        <Incident>123e</Incident>
+        <Incident>123w</Incident>
+        <Incident>123q</Incident>
+      </Incidents>
+      <ASNs>
+        <ASN>122</ASN>
+        <ASN>23</ASN>
+        <ASN>1</ASN>
+        <ASN>1234</ASN>
+      </ASNs>
+      <ASNOwners>
+        <ASNOwner>01983hjk222</ASNOwner>
+        <ASNOwner>01983asfadffj</ASNOwner>
+        <ASNOwner>01983dffj</ASNOwner>
+        <ASNOwner>01983hjk</ASNOwner>
+      </ASNOwners>
+      <Registrars>
+        <Registrars>gsb89jjj</Registrars>
+        <Registrars>hgs89jjj</Registrars>
+        <Registrars>8fds39jjj</Registrars>
+        <Registrars>fhjt89jjj</Registrars>
+        <Registrars>89jjjadf</Registrars>
+      </Registrars>
+	  <Bool>false</Bool>
+	  <Dict>2</Dict>
+	  <E-mail>campaig@test.ru</E-mail>
+	  <INN>365441141160</INN>
+	  <Int>12</Int>
+	  <Link>https://old.reactor.cc/all</Link>
+	  <Luma>5062821234567892</Luma>
+	  <Mult>First line.\n Second line.</Mult>
+	  <Reg>12.133.46.05</Reg>
+	  <Str>My string 188</Str>
+	  <Time>2024-08-20T23:00:00Z</Time>
+    </Indicator>
+   </indicators>
+</OpenIOC>

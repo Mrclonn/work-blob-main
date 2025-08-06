@@ -1,0 +1,18 @@
+{
+  "type": "bundle",
+  "id": "bundle--ac946f1d-6a0e-4a9d-bc83-3f1f3bfda6ba",
+  "objects": [
+    {
+      "type": "threat-actor",
+      "spec_version": "2.1",
+      "id": "threat-actor--6d179234-61fc-40c4-ae86-3d53308d8e65",
+      "created": "2015-05-15T09:12:16.432Z",
+      "modified": "2015-05-15T09:12:16.432Z",
+      "name": "Ugly Gorilla",
+      "threat_actor_types": [
+        "nation-state",
+        "spy"
+      ]
+    }
+  ]
+}
